@@ -1,0 +1,14 @@
+# Ignore python compilation files
+__pycache__/
+*.pyc
+
+# Ignore environment variables (Your API Keys!)
+.env
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore IDE settings
+.vscode/
+.idea/
