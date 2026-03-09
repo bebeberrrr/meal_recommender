@@ -1,5 +1,7 @@
 MYRAGE: A Retrieval-Augmented Generation Framework for Food Recommendation
+
 Project Overview
+
 The MYRAGE framework is a Retrieval-Augmented Generation (RAG) system designed to optimize meal planning and recipe selection.
 By leveraging a high-performance Large Language Model (LLM) and a vector-indexed database, the system addresses the limitations of standard filtering through a custom "relaxed search" algorithm.
 This ensures the system remains functional under complex, multi-criteria constraints while prioritizing health-specific parameters.
